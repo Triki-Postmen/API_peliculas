@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "Spiderman lejos de casa",
+        "director": "xdd",
+        "year": "2019",
+        "rating": "9.0"
+
+    },
+    {
+        "id": "2",
+        "title": "Lobo de wall street",
+        "director": "xdd",
+        "year": "2013",
+        "rating": "9.0"
+    }
+]
